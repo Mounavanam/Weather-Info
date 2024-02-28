@@ -11,6 +11,7 @@ OpenWeatherMap API
 Enter the name of a city in the input field and click "Get Weather" to fetch weather data for that city.  
 Click the "Use my Location" button to fetch weather data for your current location using geolocation.      
 ## 🎬 Preview  
+![Weather App Preview](weather_img.png)
 
 
 
